@@ -11,6 +11,7 @@ public class Demo {
         System.out.println("Page title is: " + driver.getTitle());
         driver.quit();
 
+        System.out.println("Thank You Demo1");
 	}
 
 }
