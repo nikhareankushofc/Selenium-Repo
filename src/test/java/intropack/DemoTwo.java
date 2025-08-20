@@ -19,6 +19,8 @@ public class DemoTwo {
 		//Safari Browser - Have to use the below line in Mac machine
 		// Enable Develop menu and then select Allow Remote Automation in Develop menu
 		//SafariDriver driver = new SafariDriver();
+		
+		System.out.println("Thank You Demo2");
 
 	}
 
